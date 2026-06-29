@@ -1,0 +1,17 @@
+# ide
+.idea/
+__pycache__/
+
+# aux
+static/
+src/utils/sdf/build/
+src/utils/sdf/dist/
+src/utils/sdf/sdf_pytorch.egg-info/
+
+# drafts
+draft*
+*_poc/
+
+# temporary outputs
+temp
+logs*
