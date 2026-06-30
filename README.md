@@ -7,7 +7,7 @@ EC-fit is an optimisation-based fitting pipeline that generates 3D hand-object p
 > Siddhant Bansal<sup>1</sup>, Zhifan Zhu<sup>1</sup>, Shashank Tripathi<sup>2</sup>, Jiahe Zhao<sup>1</sup>, Michael J. Black<sup>2</sup>, Dima Damen<sup>1</sup>  
 > <sup>1</sup>University of Bristol, <sup>2</sup>Max Planck Institute for Intelligent Systems, Tübingen  
 > *European Conference on Computer Vision (ECCV), 2026*  
-> [Project Page](https://sid2697.github.io/epic-contact/) · [Download EPIC-Contact Dataset](https://huggingface.co/datasets/Sid2697/epic-contact) · [Models](https://huggingface.co/Sid2697/HOPformer) · [EC-fit](https://github.com/ZJHTerry18/ec-fit)
+> [Paper](https://arxiv.org/abs/2606.30598) · [Project Page](https://sid2697.github.io/epic-contact/) · [Download EPIC-Contact Dataset](https://huggingface.co/datasets/Sid2697/epic-contact) · [Models](https://huggingface.co/Sid2697/HOPformer)
 
 ![overview](assets/annotation_pipeline.png)
 
